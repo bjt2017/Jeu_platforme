@@ -8,7 +8,7 @@
 
 ## Visuel
 - Au demarage du jeu vous arrivez sur le menu  
-![visuel1](menu.jpg)
+![visuel1](image/menu.jpg)
 - 
 
 - après une première selection d'une case par l'utilisateur, une partie de la carte est dévoilée
