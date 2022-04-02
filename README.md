@@ -1,9 +1,9 @@
 ###projet NSI pygame
 
 ## Introduction
--Projet realise pour le cours de NSI de premiere 
--codé avec python 
--librairie utilisée : pygame, time 
+- Projet realise pour le cours de NSI de premiere 
+- codé avec python 
+- librairie utilisée : pygame, time 
 
 
 ## Visuel
