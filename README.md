@@ -15,6 +15,11 @@
 
 - jouer a des niveaux deja existants
 
+#### Selecteur de niveau
+
+![visuel1](image/levelselector.png)
+
+
 #### Exemple de niveaux
 
 ![visuel1](image/exlevel1.png)
