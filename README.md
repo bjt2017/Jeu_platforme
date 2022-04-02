@@ -1,5 +1,13 @@
+###projet NSI pygame
+
+## Introduction
+-Projet realise pour le cours de NSI de premiere 
+-codé avec python 
+-librairie utilisée : pygame, time 
+
+
 ## Visuel
-- Le jeu débute avec toutes les cases recouvertes 
+- 
 ![visuel1](visuel1.jpg)
 
 - après une première selection d'une case par l'utilisateur, une partie de la carte est dévoilée
