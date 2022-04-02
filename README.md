@@ -17,7 +17,7 @@
 
 #### Selecteur de niveau
 
-[![Watch the video](videoJeu)](image/jeu_ex.mp4)
+https://github.com/bjt2017/Game/blob/main/image/jeu_ex.mp4
 
 
 #### Exemple de niveaux
