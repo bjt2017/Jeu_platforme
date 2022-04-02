@@ -18,7 +18,7 @@
 #### Selecteur de niveau
 
 
-![](image/jeu_ex.mp4)
+![](image/Untitle-2021-05-08 10 48 471.gif)
 
 
 #### Exemple de niveaux
