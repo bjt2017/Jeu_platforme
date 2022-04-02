@@ -17,7 +17,7 @@
 
 #### Selecteur de niveau
 
-![visuel1](image/levelselector.png)
+[![Watch the video](videoJeu)](jeu_ex.mp4)
 
 
 #### Exemple de niveaux
