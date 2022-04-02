@@ -1,4 +1,4 @@
-###projet NSI pygame
+### projet NSI pygame
 
 ## Introduction
 - Projet realise pour le cours de NSI de premiere 
