@@ -1,4 +1,4 @@
-### Projet Jeu Pygame
+# Projet Jeu Pygame
 
 ## Introduction
 - Projet realise pour le cours de NSI de premiere 
@@ -12,6 +12,19 @@
 ![visuel1](image/menu.png)
 
 ### Vous avez alors plusieurs possibilités:
+
+- jouer a des niveaux deja existants
+
+#### Exemple de niveaux
+
+![visuel1](image/exlevel1.png)
+
+![visuel1](image/exlevel2.png)
+
+![visuel1](image/exlevel3.png)
+
+
+- 
 
 
 
