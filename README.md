@@ -13,7 +13,7 @@
 
 ### Vous avez alors plusieurs possibilités:
 
-- jouer a des niveaux deja existants
+####jouer a des niveaux deja existants
 
 ### Selecteur de niveau
 
@@ -29,7 +29,7 @@
 
 ![visuel1](image/exlevel3.png)
 
-- Créer ses propres niveaux
+### Créer ses propres niveaux
 
 ![](image/exediteur.gif)
 
