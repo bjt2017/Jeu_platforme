@@ -15,7 +15,7 @@
 
 #### Jouer a des niveaux deja existants
 
-### Selecteur de niveau
+### Exemple de gameplay
 
 
 ![](image/jeu.gif)
