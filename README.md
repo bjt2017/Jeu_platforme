@@ -37,6 +37,12 @@
 
 ![visuel1](image/editeur2.png)
 
+### Allez acheter des Skins
+
+![visuel1](image/boutique.png)
+
+
+
 
 
 
