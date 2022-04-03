@@ -39,15 +39,11 @@
 
 ### Allez acheter des Skins
 
-![visuel1](image/boutique.png)
+![visuel1](image/store.png)
 
+## Comment installer le jeu
 
+- installer tout les fichers
+- installer les librairies pygame et tkinter
+- lancer le ficher main
 
-
-
-
-- après une première selection d'une case par l'utilisateur, une partie de la carte est dévoilée
-![visuel2](visuel2.jpg)
-
-- le joueur peut alors à partir des nombres visibles essayer de déduire la position des bombes
-![visuel3](visuel3.jpg)
