@@ -31,8 +31,11 @@
 
 ### Créer ses propres niveaux
 
+![visuel1](image/exediteur1.png)
+
 ![](image/exediteur.gif)
 
+![visuel1](image/exediteur2.png)
 
 
 
