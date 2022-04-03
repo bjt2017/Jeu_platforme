@@ -31,7 +31,7 @@
 
 - Créer ses propres niveaux
 
-![visuel1](image/"exniveau cree".png)
+![](image/exediteur.gif)
 
 
 
