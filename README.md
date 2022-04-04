@@ -1,19 +1,19 @@
-# Projet Jeu Pygame
+# Projet - Jeu Pygame
 
 ## Introduction
-- Projet realise pour le cours de NSI de premiere 
+- Projet réalisé en première pour le cours de NSI 
 - codé avec python 
-- librairie utilisée : pygame, time 
+- librairies utilisées : pygame, time 
 
 
 ## Visuel
-- Au demarage du jeu vous arrivez sur le menu  
+- Au démarrage du jeu, on trouve le menu  
 
 ![visuel1](image/menu.png)
 
-### Vous avez alors plusieurs possibilités:
+### Plusieurs possibilités se présente au joueur:
 
-#### Jouer a des niveaux deja existants
+#### Jouer à des niveaux existants
 
 ### Exemple de gameplay
 
@@ -37,13 +37,13 @@
 
 ![visuel1](image/editeur2.png)
 
-### Allez acheter des Skins
+### Acheter des Skins
 
 ![visuel1](image/store.png)
 
 ## Comment installer le jeu
 
-- installer tout les fichers
+- installer tous les fichiers
 - installer les librairies pygame et tkinter
-- lancer le ficher main
+- lancer le fichier main
 
