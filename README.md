@@ -11,7 +11,7 @@
 
 ![visuel1](image/menu.png)
 
-### Plusieurs possibilités se présente au joueur:
+### Plusieurs possibilités se présentent au joueur:
 
 #### Jouer à des niveaux existants
 
