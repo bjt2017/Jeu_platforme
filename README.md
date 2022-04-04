@@ -45,5 +45,5 @@
 
 - installer tous les fichiers
 - installer les librairies pygame et tkinter
-- lancer le fichier main
+- lancer le fichier main.py
 
