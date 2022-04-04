@@ -1,4 +1,4 @@
-#importation des modules necessaires
+#importation des modules nécessaires
 import pygame
 from editor import Editor
 from game import Game
